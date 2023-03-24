@@ -2,7 +2,9 @@
 
 I am passionate about 3d printing, video games, cryptocurrencies, virtual reality and any other technological subject :computer:
 
-I know about:
+<details>
+<summary>I know about:</summary>
+<br>
 ## Programming Languages
 
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -26,6 +28,7 @@ I know about:
 
 ## Test
 ![jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)![testing](https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red)
+</details>
 
 <hr>
 
@@ -39,7 +42,7 @@ I know about:
 
 If you want to meet me, do not hesitate to look for me at:
 
-[![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ingvillanuevat1/?target=_blank)
+[![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ingvillanuevat1/)
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/3202861352)
 
 <hr>
