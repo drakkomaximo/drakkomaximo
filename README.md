@@ -5,6 +5,7 @@ I am passionate about 3d printing, video games, cryptocurrencies, virtual realit
 <details>
 <summary>I know about:</summary>
 <br>
+  
 ## Programming Languages
 
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -43,7 +44,7 @@ I am passionate about 3d printing, video games, cryptocurrencies, virtual realit
 If you want to meet me, do not hesitate to look for me at:
 
 [![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ingvillanuevat1/)
-[![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/3202861352)
+[![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+573202861352)
 
 <hr>
 
