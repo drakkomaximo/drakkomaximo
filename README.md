@@ -56,12 +56,14 @@ I am passionate about 3d printing, video games, cryptocurrencies, virtual realit
 <hr>
 
 ### I worked on:
-[<img src="https://user-images.githubusercontent.com/57687342/227535618-7049fda7-9f72-4b24-bef3-6c7b6a830bd3.png" width="100" height="100">](https://bit.institute/)
-[<img src="https://user-images.githubusercontent.com/57687342/227535833-cc8fe165-61aa-4995-9a4b-32d767f0387c.jpg" width="100" height="100">](https://sense-digital.co/landing-marketing-9-sergio-ga/?utm_term=sense%20digital&utm_campaign=MKT_Col_-_General_-_Search_-_Potenciales&utm_source=adwords&utm_medium=ppc&hsa_acc=8336534952&hsa_cam=18077553788&hsa_grp=141408400739&hsa_ad=621424382582&hsa_src=g&hsa_tgt=kwd-891660918367&hsa_kw=sense%20digital&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjwlPWgBhDHARIsAH2xdNe4OiYRX8fMEemA0F09yOTMzsjSJuX9P7v5F8bD0bDL1nro-ZX-6MEaArbBEALw_wcB)
-[<img src="https://user-images.githubusercontent.com/57687342/227536088-d390782d-a612-4da0-86ba-1ff4efad9614.png" width="100" height="100">](https://rebustech.io/)
-[<img src="https://media.licdn.com/dms/image/C4E0BAQE57T41T0ZR8A/company-logo_200_200/0/1587092424852?e=2147483647&v=beta&t=KeWpAEzM4ESlfH0As5SRjMrj04gWb18SRZFEJoCMN7Y" width="100" height="100">](https://itglobers.com/)
-[<img src="https://user-images.githubusercontent.com/57687342/227538339-4ce66d6c-8350-48bb-9df5-9e38bf91c4c5.jpg" width="100" height="100">](https://www.donrep.co/)
-[<img src="https://github.com/drakkomaximo/drakkomaximo/assets/57687342/048f3128-5745-40a3-bc5f-eb692f75dac3" width="100" height="100">](https://www.publicisgroupe.com/en/the-groupe/about-publicis-groupe)
+[<img src="https://user-images.githubusercontent.com/57687342/227535618-7049fda7-9f72-4b24-bef3-6c7b6a830bd3.png" width="150" height="150">](https://bit.institute/)
+[<img src="https://github.com/user-attachments/assets/a37f932e-50b7-4a64-a078-cd01fff57a3e" width="150" height="150">](https://sense-digital.co/)
+[<img src="https://user-images.githubusercontent.com/57687342/227536088-d390782d-a612-4da0-86ba-1ff4efad9614.png" width="150" height="150">](https://www.linkedin.com/company/rebus-technology/)
+[<img src="https://media.licdn.com/dms/image/C4E0BAQE57T41T0ZR8A/company-logo_200_200/0/1587092424852?e=2147483647&v=beta&t=KeWpAEzM4ESlfH0As5SRjMrj04gWb18SRZFEJoCMN7Y" width="150" height="150">](https://itglobers.com/)
+[<img src="https://user-images.githubusercontent.com/57687342/227538339-4ce66d6c-8350-48bb-9df5-9e38bf91c4c5.jpg" width="150" height="150">](https://www.donrep.co/)
+[<img src="https://github.com/drakkomaximo/drakkomaximo/assets/57687342/048f3128-5745-40a3-bc5f-eb692f75dac3" width="150" height="150">](https://www.publicisgroupe.com/en/the-groupe/about-publicis-groupe)
+[<img src="https://github.com/user-attachments/assets/47cee5f8-38c2-4a40-83f6-cff115040814" width="150" height="150">](https://purrfecthire.com/)
+[<img src="https://github.com/user-attachments/assets/2d943268-9872-4f9a-b894-cefa758ec305" width="150" height="150">](https://simphony.com.co/)
 
 
 If you want to meet me, do not hesitate to look for me at:
